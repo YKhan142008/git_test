@@ -6,6 +6,8 @@
 .box-one {
   background-color: red;
   padding: 20px; 
+  width: 200;
+  height: 200;
   border: 20px solid purple;
   margin: 20px;
 }

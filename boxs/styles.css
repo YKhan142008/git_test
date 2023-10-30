@@ -5,6 +5,8 @@
 
 .box-one {
   background-color: red;
+  padding: 20px; 
+  border: 20px solid purple;
 }
 
 .box-two {

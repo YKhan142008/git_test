@@ -10,6 +10,7 @@
   height: 200px;
   border: 20px solid purple;
   margin: 20px;
+  box-sizing: border-box;
 }
 
 .box-two {

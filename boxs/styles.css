@@ -2,3 +2,11 @@
   padding: 0;
   margin: 0;
 }
+
+.box-one {
+  background-color: red;
+}
+
+.box-two {
+  background-color: blue;
+}
